@@ -1,4 +1,7 @@
 ### Hi there 👋
+Curso/Semestre: Ciência da Computação, UFBA - 2021.2
+Área de Interesse: Banco de Dados
+Trabalhando com: Bolsista de IC na área de justiça algorítmica
 
 <!--
 **Netflixjunior/Netflixjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
